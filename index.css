@@ -37,6 +37,10 @@ body{
     box-shadow: 0 0 1rem rgba(0, 0,0, 0.3);
     font-size: 75px;
     color: #b0413e;
+<<<<<<< HEAD
+    background-color: #ffffc7;
+=======
+>>>>>>> 6a308c056dbbcbe561d7f91755b78e5f41b79b0d
 }
 #reset{
     padding:1rem ;
@@ -45,4 +49,33 @@ body{
     color: white;
     border-radius: 1rem;
     border: none;
+<<<<<<< HEAD
+}
+#NEWGAME{
+    padding:1rem ;
+    font-size: 1.5rem;
+    background-color: #191913;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+
+}
+#msg{
+    color: #ffffc7;
+    font-size: 8vmin;
+}
+.msg-container{
+    height: 80vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+
+
+}
+.hide{
+    display: none;
+=======
+>>>>>>> 6a308c056dbbcbe561d7f91755b78e5f41b79b0d
 }
